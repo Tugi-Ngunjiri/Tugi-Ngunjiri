@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tugi-Ngunjiri
-- 👀 I’m interested in ... art and design, dancing and learning Asian languages.
+- 👀 I’m interested in  art and design and tech careers.
 - 🌱 I’m currently learning ... (HTML,CSS, Javascript,react, RubyonRails)
 - 💞️ I’m looking to collaborate on ... react projects.
 - 📫 How to reach me ... blueqwinn@gmail.com , _Gichi01 on instagram.
