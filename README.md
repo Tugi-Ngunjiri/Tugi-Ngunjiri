@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ... (HTML, CSS, Javascript, TypeScrip, react, RubyonRails)
 - 💞️ I’m looking to collaborate on ... react projects.
 - 📫 How to reach me ... tugigichiku@gmail.com , _Gichi01
-![Screenshot from 2023-10-04 17-05-15]
+
+![Screenshot from 2023-10-04 17-05-15](https://github.com/Tugi-Ngunjiri/Tugi-Ngunjiri/assets/102291617/d7c05136-a983-4ed2-95a7-1123d6d46957)
 
 
 <!---
