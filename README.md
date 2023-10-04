@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on ... react projects.
 - 📫 How to reach me ... tugigichiku@gmail.com , _Gichi01
 ![Screenshot from 2023-10-04 17-05-15]
-
-
+![Screenshot from 2023-10-04 17-08-52]
+![Screenshot from 2023-10-04 17-10-28]
+![Screenshot from 2023-10-04 17-10-37]
 
 <!---
 Tugi-Ngunjiri/Tugi-Ngunjiri is a ✨!
