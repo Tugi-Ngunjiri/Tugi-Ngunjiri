@@ -11,7 +11,6 @@
 [Screenshot from 2023-10-04 17-10-28](https://github.com/Tugi-Ngunjiri/Tugi-Ngunjiri/assets/102291617/02bba321-9fe1-462d-9ab0-ffe884aff0e8)
 ![Screenshot from 2023-10-04 17-08-52](https://github.com/Tugi-Ngunjiri/Tugi-Ngunjiri/assets/102291617/35aefc8b-aa8a-4a80-9acd-8b05b2cdff04)
 
-
 ![Screenshot from 2023-10-04 17-08-52](https://github.com/Tugi-Ngunjiri/Tugi-Ngunjiri/assets/102291617/881892f3-876d-40de-9482-62538641f6f7)
 
 <!---
