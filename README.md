@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tugi-Ngunjiri
+- 👋  ##Hi, I’m @Tugi-Ngunjiri ⭐
 - 👀 I’m interested in  art and design and tech careers.
 - 🌱 I’m currently learning ... (HTML, CSS, Javascript, TypeScrip, react, RubyonRails)
 - 💞️ I’m looking to collaborate on ... react projects.
