@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @Tugi-Ngunjiri ⭐
 - 👀 I’m interested in  art and design and tech careers.
-- 🌱 I’m currently learning ... (HTML, CSS, Javascript, TypeScrip, react, RubyonRails)
+- 🌱 I’m currently learning ... (HTML, CSS, Javascript, TypeScrip, react, RubyonRails, blockchain, web3)
 - 💞️ I’m looking to collaborate on ... react projects.
 - 📫 How to reach me ... tugigichiku@gmail.com , _Gichi01
 
